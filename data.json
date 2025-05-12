@@ -1,14 +1,14 @@
-[
-  {
-    "keyword": "Tài liệu ôn thi",
-    "answer": "Các tài liệu: Tài liệu tư tưởng Hồ Chí Minh, Triết hoc"
-  },
-  {
-    "keyword": "giao hàng",
-    "answer": "Shop hỗ trợ giao hàng toàn quốc, miễn phí nội thành TP.HCM, Hà Nội cho đơn từ 500.000đ."
-  },
-  {
-    "keyword": "thanh toán",
-    "answer": "Bạn có thể thanh toán khi nhận hàng (COD), chuyển khoản ngân hàng hoặc qua ví Momo/ZaloPay."
-  }
-]
+{
+  "Toán": [
+    {
+      "keyword": "định lý Pitago",
+      "answer": "Trong tam giác vuông, a² + b² = c²."
+    }
+  ],
+  "Vật lý": [
+    {
+      "keyword": "định luật Ohm",
+      "answer": "I = U/R."
+    }
+  ]
+}
