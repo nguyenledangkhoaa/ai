@@ -32,6 +32,13 @@
       "answer": "Tài liệu ôn thi môn Kinh tế chính trị là: https://drive.google.com/file/d/1-LCTBxF3Fe1lmMYVnV4MWaqbAe9sCPf5/view?usp=drivesdk"
     },
     {
+      "keyword": ["Quốc phòng 1", "QP1"],
+      "answer": "Tài liệu ôn thi môn Quốc phòng 1 là: https://drive.google.com/file/d/15cR1AG_0c41Qhj_GFZkyTJ5qYVWZUzzv/view?usp=drive_link"
+    {
+      "keyword": ["Quốc phòng 2", "QP2"],
+      "answer": "Tài liệu ôn thi môn Quốc phòng 2 là: https://drive.google.com/file/d/1zqmBRGMqp4c5z0t5TjNbRmRNV04-20z_/view?usp=drive_link"   
+    },
+    {
       "keyword": ["Quản trị học","qth"],
       "answer": "Tài liệu ôn thi môn Quản trị học là: https://drive.google.com/file/d/1RFIDXlSWSKlY9LId7fea5BlVpkv9rMmw/view?usp=drive_link"
     }
@@ -48,6 +55,20 @@
     {
       "keyword": ["Triết học 450 câu", "450 câu"],
       "answer": "Tài liệu Triết học Mác Lênin 450 câu: https://drive.google.com/file/d/1zTCqFvq9ObzL0yZxlNWgD2cSL5UUB4ji/view?usp=drivesdk"
+    }
+  ],
+  "Anh văn": [
+    {
+      "keyword": ["Anh văn đầu vào", "avdv","Tiếng anh đầu vào"],
+      "answer": "Tài liệu ôn thi anh văn đầu vào: https://drive.google.com/file/d/1WKnq1A-sxE38cfnc98cnJCMCVBL5SdIA/view?usp=drive_link"
+    },
+    {
+      "keyword": ["Đáp án anh văn 1", "av 1"],
+      "answer": "Đáp án anh văn 1: https://drive.google.com/file/d/1QHn0syoxX9y2w7M5po3xeyESHrqZyu0k/view?usp=drive_link"
+    },
+    {
+      "keyword": ["Đáp án anh văn 2", "av 2"],
+      "answer": "Đáp án anh văn 2: https://drive.google.com/file/d/1QHn0syoxX9y2w7M5po3xeyESHrqZyu0k/view?usp=drive_link"
     }
   ]
 }
