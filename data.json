@@ -1,13 +1,13 @@
 {
-  "Tài liệu": [
+  "01": [
     {
       "keyword": ["Tư Tưởng","tthcm"],
       "answer": "Tài liệu ôn thi môn tư tưởng Hồ Chí Minh là: https://drive.google.com/file/d/1yx9conGaiV2A9D8NHQoAVS4fKHgyfUAN/view?usp=drivesdk"
     }
   ],
-  "Vật lý": [
+  "Triết học": [
     {
-      "keyword": ["định luật Ohm"],
+      "keyword": ["Triết học",],
       "answer": "I = U/R."
     }
   ]
