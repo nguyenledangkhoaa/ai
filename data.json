@@ -1,8 +1,16 @@
 {
-  "Admin": [
+  "user": [
     {
       "keyword": ["Nguyễn Lê Đăng Khoa","chủ chatbox"],
       "answer": "Nguyễn Lê Đăng Khoa sinh viên năm 3 - chuyên ngành Công nghệ phần mềm tại trường đại học Công Thương TPHCM. \nWebsite:nguyenledangkhoa.site \nFacebook: www.fb.com/nguyenledangkhoa.2005"    
+    },
+    {
+      "keyword": ["Nguyễn Thị Phương Nhung"],
+      "answer": "Nguyễn Thị Phương Nhung sinh viên năm 1. Chuyên gia hỏi bài Nguyễn Lê Đăng Khoa. Bạn có muốn biết về năng lực của Nhung?"    
+    },
+    {
+      "keyword": ["Năng lực của Phương Nhung"],
+      "answer": "Nhờ ah NLDK giải cả bài CTDL mà vẫn đéo hiểu code như thế nào."    
     }
     
   ],
