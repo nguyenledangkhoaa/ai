@@ -10,9 +10,15 @@
     },
     {
       "keyword": ["có"],
-       "answer": "Nhờ anh NLDK giải cả bài CTDL mà vẫn đéo hiểu code như thế nào."   
+      "answer": "Nhờ anh NLDK giải cả bài CTDL mà vẫn đéo hiểu code như thế nào."   
     }
     
+  ],
+  "Xét tuyển đại học "[
+    {
+      "keyword": ["Xét tuyển đại học Huit", "xét tuyển đại học công thương TPHCM HUIT"],
+      "answer" "Tìm hiểu về trường đại học Công Thương TPHCM mới nhất. Tìm hiểu về điểm xét tuyển các năm, học phí, chất lượng"
+    }
   ],
   "Tài liệu": [
     {
