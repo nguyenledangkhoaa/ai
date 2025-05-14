@@ -78,8 +78,6 @@ body {
     right: 0;
     padding: 8px 10px;
     background-color: #fff;
-    border-top: 1px solid #ccc;
-    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.05);
     z-index: 1000;
     width: 80%;
     margin: 0 auto;
