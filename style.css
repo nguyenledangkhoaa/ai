@@ -88,6 +88,18 @@ body {
 .chat-input .input-group {
     width: 100%;
 }
+#user-input{
+    border-radius: 80px;
+}
+.bi-arrow-up-circle-fill{
+    font-size: 200%;
+    display: block;
+    padding: 0px 10px;
+}
+#send-btn{
+    padding: 0px;
+    border: none;
+}
 .link-document{
   text-decoration: none;
   color: rgb(75, 136, 216);
@@ -102,6 +114,9 @@ body {
 .text-center>p>a{
   text-decoration: none;
   color: rgb(58, 56, 56);
+}
+#chat-box::-webkit-scrollbar{
+    display: none;
 }
 @media (max-width: 900px){
 .container {
