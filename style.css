@@ -106,7 +106,7 @@ body {
 @media (max-width: 900px){
 .container {
         height: 100%;
-        padding-bottom: 200px !important; 
+        padding-bottom: 190px !important; 
         box-sizing: border-box;
         overflow: hidden;
         display: flex;
