@@ -14,7 +14,7 @@ body {
 }
 .container {
     height: 100%;
-    padding-bottom: 125px !important;
+    padding-bottom: 145px !important;
     box-sizing: border-box;
     overflow: hidden;
     display: flex;
@@ -117,6 +117,10 @@ body {
 }
 #chat-box::-webkit-scrollbar{
     display: none;
+}
+.modal-backdrop{
+  width: 0px;
+  height: 0px;
 }
 @media (max-width: 900px){
 .container {
